@@ -9,7 +9,7 @@ I'm [Ashendra de Silva](https://ashendra.tk/), I'm the Founder, Owner, CEO, Mana
 
 - <div>
     <img width="250" height="250" align='left' src="https://raw.githubusercontent.com/ashendra04/ashendra04/main/images/Black.jpg" >
-    ... as a <strong>Please visit our Official Website Below & serach on Google.
+    ... <strong>Please visit our Official Website Below & serach on Google.
     <br />
     <strong>View: </strong> <a href="https://unkownus.tk/" >unknownus.tk</a> 
     <br /> 
